@@ -1,6 +1,6 @@
 from setuptools import setup
 
-APP = ['your_script.py']
+APP = ['starter.py']
 OPTIONS = {
     'argv_emulation': True,
     'packages': ['rarfile'],
